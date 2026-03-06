@@ -149,10 +149,4 @@ OrangeHRM-Test-Framework/
 
 &nbsp;
 
-📜 许可证  
-MIT
 
-👨‍💻 作者  
-W - 软件测试工程师  
-
-如果项目对你有帮助，欢迎 Star ⭐！有问题随时提交 Issue。
